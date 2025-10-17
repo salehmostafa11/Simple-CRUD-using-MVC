@@ -47,6 +47,22 @@ CodeCoverage/
 # MSTest test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
+# Visual Studio specific folders and files
+.vs/
+*.user
+*.suo
+*.vssscc
+*.vspscc
+*_i.c
+*_p.c
+*_h.h
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+*.dbmdl
+*.bak
+*.vsidx
 
 # NUnit
 *.VisualState.xml
